@@ -1,0 +1,20 @@
+{
+	"logo": "logo.svg",
+	"social":[
+		{
+			"site":"twitter",
+			"badge":"twitter.svg",
+			"url":"https://twitter.com/gdbym"
+		},
+		{
+			"site":"facebook",
+			"badge":"fb.svg",
+			"url":"https://www.facebook.com/pages/GDBYM/207222919480054"
+		},
+		{
+			"site":"instagram",
+			"badge":"instagram.svg",
+			"url":"https://instagram.com/gdbym"
+		}
+	]
+}

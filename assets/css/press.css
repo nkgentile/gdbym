@@ -1,0 +1,16 @@
+section#press{
+	text-align: center;
+}
+section#press h2{
+	color: rgb(255,147, 30);
+	width: 100%;
+	text-align: center;
+}
+
+img.press{
+	width: 25%;
+	max-height: 10em;
+	min-height: 10em;
+	margin: 1em 2em;
+	display: inline-block;
+}

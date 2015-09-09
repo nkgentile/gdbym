@@ -1,0 +1,47 @@
+[
+  {
+    "name":"Complex",
+    "url":"http://www.complex.com",
+    "svg":"complex.svg"
+  },
+  {
+    "name":"Noisey",
+    "url":"http://noisey.vice.com/",
+    "svg":"noisey.svg"
+  },
+  {
+    "name":"XXL Mag",
+    "url":"http://www.xxlmag.com",
+    "svg":"xxl.svg"
+  },
+  {
+    "name":"The Fader",
+    "url":"http://www.thefader.com",
+    "svg":"fader.svg"
+  },
+  {
+    "name":"Rolling Stone",
+    "url":"http://www.rollingstone.com",
+    "svg":"rollingstone.svg"
+  },
+  {
+    "name":"NPR Music",
+    "url":"http://www.npr.org/music/",
+    "svg":"npr.svg"
+  },
+  {
+    "name":"Hypetrak",
+    "url":"http://hypetrak.com",
+    "svg":"hypetrak.svg"
+  },
+  {
+    "name":"Ill Roots",
+    "url":"http://www.illroots.com",
+    "svg":"illroots.svg"
+  },
+  {
+    "name":"Funny or Die",
+    "url":"http://www.funnyordie.com/",
+    "svg":"fod.svg"
+  }
+]

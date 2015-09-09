@@ -1,0 +1,464 @@
+[
+  {
+    "client":"iSmart Alarm",
+    "name":"Overwhelming Directors",
+    "image":"iSmart-Alarm---Overwhelming-Directors.jpg",
+    "link":"https://vimeo.com/88011378",
+    "press":"http://www.amazon.com/iSmartAlarm-iSA3-Preferred-Package-Security/dp/B00ESVCRJO/ref=sr_1_1?ie=UTF8&qid=1434149649&sr=8-1&keywords=ismart+alarm&pebp=1434149651469&perid=A7693D20AC7646168A97",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"iCamera Keep",
+    "name":"Robbery",
+    "image":"iCamera-KEEP---Robbery.jpg",
+    "link":"https://vimeo.com/107552977",
+    "press":"https://www.indiegogo.com/projects/the-icamera-keep-hd-video-from-ismartalarm",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"",
+    "name":"Sony NAB",
+    "image":"Screen.png",
+    "link":"https://vimeo.com/124177542",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Luna Luna",
+    "name":"Epiphany",
+    "image":"Luna-Luna---Epiphany.jpg",
+    "link":"https://vimeo.com/87964808",
+    "press":"http://www.complex.com/music/2014/03/luna-luna-electronic-singer-songwriter-epiphany-video",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Goldlink",
+    "name":"When I Die",
+    "image":"Goldlink---When-I-Die.jpg",
+    "link":"https://www.youtube.com/watch?v=FeJ5bhvvuoM",
+    "press":"http://noisey.vice.com/blog/goldlink-when-i-die-video-premiere",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"",
+    "name":"Viral",
+    "image":"Viral-Feature-Film.jpg",
+    "link":"https://vimeo.com/88197004",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Black Zheep",
+    "name":"Ice Hot",
+    "image":"Black-Zheep---Ice-Hot.jpg",
+    "link":"https://www.youtube.com/watch?v=qHMBwK1acyk",
+    "press":"http://www.complex.com/music/2014/11/black-zheep-ice-hot-video-premiere",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Goldlink",
+    "name":"Ay Ay",
+    "image":"Goldlink---Ay-Ay.jpg",
+    "link":"https://www.youtube.com/watch?v=Q4ULkS88qzQ",
+    "press":"http://www.xxlmag.com/rap-music/2014/04/watch-goldlink-video-ay-ay-nsfw/",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Mick Jenkins",
+    "name":"Jazz",
+    "image":"Mick-Jenkins---Jazz-.jpg",
+    "link":"https://www.youtube.com/watch?v=F-4KiszXxHM",
+    "press":"http://www.complex.com/music/2014/08/mick-jenkins-jazz-video",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Mick Jenkins",
+    "name":"Dehydration",
+    "image":"Mick-Jenkins---Dehydration.jpg",
+    "link":"https://www.youtube.com/watch?v=7TY6YZGAu-k",
+    "press":"http://www.thefader.com/2014/11/19/video-mick-jenkins-dehydration",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Joey Bada$$",
+    "name":"Like Me",
+    "image":"Joey-Bada$$---Like-Me-.jpg",
+    "link":"https://www.youtube.com/watch?v=Nr_Gzz6ZRaE",
+    "press":"http://www.complex.com/music/2015/03/dram-cha-cha-video-premiere",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"D.R.A.M.",
+    "name":"Cha Cha",
+    "image":"D.R.A.M---Cha-Cha.jpg",
+    "link":"https://www.youtube.com/watch?v=jzMhcP7ab3k",
+    "press":"http://www.rollingstone.com/music/videos/joey-bada-takes-on-police-shootings-in-like-me-video-20150212",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Mick Jenkins",
+    "name":"P's & Q's",
+    "image":"Mick-Jenkins---Ps-and-Qs.jpg",
+    "link":"https://www.youtube.com/watch?v=GigIohlYqEI",
+    "press":"http://www.npr.org/2015/05/21/408570752/mick-jenkins-ps-qs",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Mass ft. Black Zheep",
+    "name":"All That I Know",
+    "image":"Mass.jpg",
+    "link":"https://www.youtube.com/watch?v=uiGxiSrU_Iw",
+    "press":"http://www.dopemusicblog.com/2015/01/mass-ft-black-zheep-dz-all-that-i-know.html",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Black Zheep",
+    "name":"Yesterdayz",
+    "image":"Black-Zheep---Yesterdays.jpg",
+    "link":"https://www.youtube.com/watch?v=fsw3IxKJPbo",
+    "press":"http://hypetrak.com/2013/08/black-zheep-dz-yesterdays-prod-by-royal/",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Dyme-A-Duzin x Sheriff PJ",
+    "name":"IDELY",
+    "image":"Dyme-A-Duzin---IDELY.jpg",
+    "link":"https://vimeo.com/28330557",
+    "press":"http://www.illroots.com/watch/dyme-a-duzin-sheriff-pjs-idely",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Jelly D, Askon, Daveed Diggs",
+    "name":"Foodies",
+    "image":"Jelly-Donut---Foodies.jpg",
+    "link":"https://www.youtube.com/watch?v=9bE4FIAmNyU",
+    "press":"http://www.funnyordie.com/videos/10ce8fa617/foodie-by-jelly-donut-ashkon-daveed-diggs",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Sagar Mokton",
+    "name":"Love",
+    "image":"Sagar-Moktan---Love-.jpg",
+    "link":"https://www.youtube.com/watch?v=s1tjeOQ7t3s",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Memeja",
+    "name":"Magic Unicorn",
+    "image":"Memeja---Magic-Unicorn.jpg",
+    "link":"https://vimeo.com/47556390",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Iman Europe",
+    "name":"Kryptonite",
+    "image":"Iman-Europe---Kryptonite.jpg",
+    "link":"https://www.youtube.com/watch?v=Jcq3qFKUl9M",
+    "press":"http://massappeal.com/premiere-iman-europe-kryptonite-video/",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"GoldLink",
+    "name":"Planet Paradise",
+    "image":"Goldlink---Planet-Paradise-.jpg",
+    "link":"",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  },
+  {
+    "client":"Nyck Caution",
+    "name":"Church",
+    "image":"Nyck-Caution---Church.jpg",
+    "link":"",
+    "press":"",
+    "crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+  }
+]

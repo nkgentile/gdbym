@@ -1,0 +1,61 @@
+header
+{
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	overflow: hidden;
+	
+	width: 9in;
+	//border: 1px solid red;
+}
+
+nav
+{
+	position: relative;
+	white-space: nowrap;
+	
+	overflow: hidden;
+	
+	margin-left: -0.25in;
+	margin-right: -0.25in;
+	padding-left: 0.25in;
+	padding-right: 0.25in;
+	
+	//border: 1px solid red;
+}
+
+nav #wrapper
+{	
+	background-color: #FFF;
+	padding-top: 0.25in;
+	margin-left: -0.5in;
+	margin-right: -0.5in;
+	padding-left: 0.5in;
+	padding-right: 0.5in;
+	margin-bottom: 10px;
+	padding-bottom: 0.125in;
+	box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.15);
+}
+
+nav a
+{
+	text-decoration: none;
+}
+
+nav #page
+{	
+	color: #757575;
+	font-size: 12pt;
+	
+	margin-left: -0.62in;
+	padding: 0in 0.62in;
+	
+	transition-property: all;
+	transition-duration: 0.25s;
+	transition-timing-function: ease-in-out;
+}
+	
+nav #page:hover
+{
+	text-shadow: 0px 3px rgba(0,0,0,0.10);
+}

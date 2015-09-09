@@ -1,0 +1,118 @@
+div#overlay{
+	width: 100%;
+	min-height: 100%;
+	left: 100%;
+	opacity: 0;
+	transition-duration: 500ms;
+	transition-timing-function: ease-in-out;
+	position: fixed;
+	top: 0;
+	z-index: 99;
+	background-color: black;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+div#overlay.active{
+	left: 0;
+	opacity: 1;
+}
+
+div#overlay header{
+	width: 100%;
+	display: block;
+	position: relative;
+	margin: 0;
+	margin-top: 1em;
+	text-align: right;
+}
+
+div#overlay header img{
+	height: 5em;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	margin: 0 1em;
+}
+
+div#overlay header div.back{
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	color: white;
+	margin: 0 1em;
+	float: left;
+}
+
+div#overlay div.back img{
+	display: inline-block;
+	vertical-align: middle;
+	height: 2em;
+}
+
+div#overlay div.back p{
+	display: inline-block;
+	vertical-align: middle;
+	color: rgb(63, 169, 245);
+}
+
+div#overlay div.title{
+	width: 100%;
+	display: block;
+	text-align: center;
+	margin: 1em 0;
+}
+
+div#overlay div.title h3.client{
+	margin: 0;
+	font-size: 1.5em;
+	color: rgb(255,255,255);
+}
+
+div#overlay div.title h2.name{
+	margin: 0;
+	font-size: 3em;
+	color: rgb(63, 169, 245);
+}
+
+div#overlay section.slideshow{
+	display: block;
+	position: relative;
+	width: 100%;
+	min-height: 30em;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 1em 0;
+}
+
+div#overlay article{
+	width: 100%;
+}
+
+div#overlay div.credits{
+	width: 80%;
+	margin: 0 auto;
+}
+
+div#overlay div.credits div.credit{
+	width: 50%;
+	display: inline-block;
+}
+
+div#overlay div.credits div.credit p{
+	display: inline-block;
+	margin: 0;
+	font-size: 1.5em;
+	width: 50%;
+}
+
+div#overlay div.credits div.credit p.position{
+	color: rgb(255, 147, 30);	
+}
+
+div#overlay div.credits div.credit p.name{
+	color: rgb(255,255,255);
+}
+

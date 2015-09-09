@@ -1,0 +1,43 @@
+[
+	{
+		"name":"Julia Elaine Mills",
+		"position":"Co-Owner & Producer",
+		"social":[
+			{
+				"badge":"imdb.svg",
+				"url":"http://www.imdb.com/name/nm4526342/"
+			}
+		]
+	},
+	{
+		"name":"Nathan R. Smith",
+		"position":"Co-Founder & Director",
+		"social":[
+			{
+				"badge":"twitter.svg",
+				"url":"https://twitter.com/nathan_rsmith"
+			}
+		]
+	},
+	{
+		"name":"Nick Walker",
+		"position":"Co-Founder & Cinematographer",
+		"social":[
+			{
+				"badge":"instagram.svg",
+				"url":"https://instagram.com/nwalker07/"
+			}
+		]
+	},
+	{
+		"name":"T Zhang",
+		"position":"Co-Founder & Producer",
+		"social":[
+			{
+				"badge":"instagram.svg",
+				"url":"https://instagram.com/ash_sunspot/"
+			}
+		]
+	}
+]
+	

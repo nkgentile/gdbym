@@ -1,0 +1,28 @@
+div.footer-wrap{
+	width: 100%;
+	text-align: center;
+}
+
+footer{
+	width: 75%;
+	display: inline-block;
+	margin: 2em 0;
+	text-align: left;
+}
+
+footer img{
+	width: 1em;
+	height: 1em;
+	margin-right: 1em;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+footer a.social, footer a.social:visited{
+	color: rgb(63, 169, 245);
+	text-decoration: none;
+	text-transform: capitalize;
+	vertical-align: middle;
+	display: block;
+	margin: 0.25em 0;
+}

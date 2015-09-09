@@ -1,0 +1,98 @@
+[
+	{
+		"client":"Goldlink",
+		"name":"Ay Ay",
+		"image":"ayay.jpg",
+		"crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			},
+			{
+				"position":"Co-Producer",
+				"name":"Michelle Cutolo"	
+			}
+		]
+	},
+	{
+		"client":"D.R.A.M",
+		"name":"Cha Cha",
+		"image":"chacha.jpg",
+		"crew":[
+			{
+				"position":"Director & Producer",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+	},
+	{
+		"client":"Goldlink",
+		"name":"When I Die",
+		"image":"whenidie.jpg",
+		"crew":[
+			{
+				"position":"Director & Editor",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			}
+		]
+	},
+	{
+		"client":"Joey Bada$$",
+		"name":"Like Me",
+		"image":"likeme.jpg",
+		"crew":[
+			{
+				"position":"Director & Editor",
+				"name":"Nathan R. Smith"
+			},
+			{
+				"position":"Producer",
+				"name":"Julia Elaine Mills"
+			},
+			{
+				"position":"Producer",
+				"name":"T Zhang"
+			},
+			{
+				"position":"DP & Colorist",
+				"name":"Nick Walker"
+			},
+			{
+				"position":"Steadicam Op",
+				"name":"Nicolas de Miranda"
+			},
+			{
+				"position":"Assistant Camera",
+				"name":"Arina Bleiman"
+			},
+			{
+				"position":"Video Effects",
+				"name":"Brian Magarian"
+			}
+		]
+	}
+]

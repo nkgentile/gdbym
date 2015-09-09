@@ -1,0 +1,47 @@
+@media screen AND (max-width: 4000px){
+	div#page{
+		font-size: 18pt;
+	}
+}
+@media screen AND (max-width: 2560px){
+	div#page{
+		font-size: 16pt;
+	}
+}
+
+@media screen AND (max-width: 2200px){
+	div#page{
+		font-size: 15pt;
+	}
+}
+
+@media screen AND (max-width: 1920px){
+	div#page{
+		font-size: 14pt;
+	}
+}
+
+@media screen AND (max-width: 1600px){
+	div#page{
+		font-size: 13pt;
+	}
+}
+
+@media screen AND (max-width: 1440px){
+	div#page{
+		font-size: 12pt;
+	}
+}
+
+@media screen AND (max-width: 1366px){
+	div#page{
+		font-size: 11pt;
+	}
+}
+
+@media screen AND (max-width: 1024px){
+	div#page{
+		font-size: 10pt;
+	}
+}
+

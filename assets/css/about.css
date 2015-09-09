@@ -1,0 +1,42 @@
+div#team{
+	padding: 2em 0em;
+	width: 100%;
+	text-align: center;
+}
+
+div.member{
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+	margin: 1em 0;
+}
+
+div.member h2.name{
+	color: white;
+	padding: 0;
+	margin: 0;
+}
+
+div.member h3.position{
+	color: rgb(63, 169, 245);
+	padding: 0;
+	margin: 0;
+}
+
+div.member div.social a{
+	display: inline-block;
+	height: 1.5em;
+	width: 1.5em;
+	margin: 0 0.5em;
+	border: 1px solid transparent;
+	padding-bottom: 1em;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition-duration: 300ms;
+	transition-timing-function: ease-in-out;
+}
+
+div.member div.social a:hover{
+	border-bottom-color: rgb(63,169,245);
+}

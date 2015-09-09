@@ -1,0 +1,79 @@
+section#home{
+	height: 100%;
+}
+
+section#home div#gradient{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: linear-gradient(
+		to left,
+		rgba(0,0,0,1) 0%,
+		rgba(0,0,0,0.5) 50%,
+		rgba(255,147,30,0.1) 100%
+	);
+}
+
+header{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 2em 0;
+	z-index: 5;
+}
+
+header img#logo{
+	float: left;
+	margin-left: 2em;
+	width: 10em;
+	height: 10em;
+}
+
+header div#social{
+	float: right;
+	margin-right: 2em;
+	position: relative;
+}
+
+header div#social a{
+	width: 2em;
+	height: 2em;
+	margin: 0em 0.5em;
+	position: relative;
+	display: inline-block;
+	vertical-align: bottom;
+	padding-bottom: 1em;
+	transition-duration: 200ms;
+	transition-timing-function: ease-in-out;
+	border: 1px solid transparent;
+	cursor: pointer;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+header div#social a:hover{
+	border-bottom-color: rgb(63,169,245);
+}
+
+div#blurb-wrap{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+div#blurb{
+	color: white;
+	width: 50%;
+	float: right;
+	margin: 0 2em 2em 0;
+	font-size: 2em;
+}
+
+div#blurb a, div#blurb a:visited{
+	color: rgb(63,169,245);
+	text-decoration: none;
+}
